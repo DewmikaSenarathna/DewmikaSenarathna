@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo_new.png" alt="Don Dew Logo">
+  <img src="logo2 New.png" alt="Don Dew Logo">
 </div
 
 ## <h1 align="center">Hi 👋, I'm Dewmika Senarathna</h1>

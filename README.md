@@ -1,89 +1,27 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Don+Dew+👋;Engineering+Undergraduate+Student;Web+%7C+App+%7C+Arduino+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
-</p>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Avidu+Witharana;Computer+Engineering+undergraduate;IT+and+Cyber+Security+undergraduate)](https://git.io/typing-svg)
 
-<h3 align="center">🚀 Welcome to My GitHub Profile</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avidzcheetah&label=Profile%20views&color=0e75b6&style=flat" alt="avidzcheetah" /> </p>
 
----
+- 🔭 I’m currently working on **combining AI and CySec for a secure cyberspace**
 
-### 👨‍💻 About Me
+- 🌱 I’m currently learning **Cyber Security and Computer Engineering**
 
-```yaml
-Name: Don Dew
-Role: Computer Engineering Undergraduate
-University: University of Jaffna
-Focus: Web Development | App Development | Embedded Systems
-Interests: Generative AI, Clean Tech Projects, Arduino Prototyping
-```
+- 📫 Reach me via **avidu@ieee.org**
 
-- 🎯 Passionate about solving real-world problems using technology.
-- 🧠 Currently exploring AI, Deep Learning, Cloud Computing & IoT.
-- 💼 Looking for internships, collaborations, and open-source contributions.
-- 🛠️ Tech Stack: HTML, CSS, JS, Python, Arduino, WordPress, C++, MATLAB.
+- ⚡ Fun fact **I am a cheetah, chasing a miracle through cyberspace!**
 
----
-
-### 🛠️ Languages and Tools
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<a href="https://linkedin.com/in/avidz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avidz" height="30" width="40" /></a>
+<a href="https://fb.com/avidzxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avidzxv" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/avidzxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avidzxv" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DonDew&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonDew&layout=compact&theme=radical" height="150"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avidzcheetah&show_icons=true&locale=en&layout=compact" alt="avidzcheetah" /></p>
 
----
-
-### 🧠 Recent Projects
-
-- 🔧 **SureLine Delivery App** – Native app for managing delivery efficiently
-- 🧹 **Lab Floor Cleaning Robot** – Arduino + Bluetooth + Mopping system
-- 🌊 **Floating Garbage Collector** – Water body cleaner using conveyor system
-
----
-
-### ⚡ Code in Action
-
-```bash
-console.log("Hello, world! I'm Don Dew");
-```
-
----
-
-### ✨ Developer Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-### 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/don-dew"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/DonDew"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 👀 Visitors Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DonDew&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avidzcheetah&show_icons=true&locale=en" alt="avidzcheetah" /></p>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dewmika Senarathna</h1>
 <h3 align="center">Emerging Computer Engineer | Web Developer | Arduino & Embedded Systems Programmer | Passionate About Generative AI & Deep Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewmikasenarathna" alt="dewmikasenarathna" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dewmikasenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="dewmikasenarathna" /> </p>
 
 - 🌱 I’m currently learning **Computer Engineering and Deep Learning**
 

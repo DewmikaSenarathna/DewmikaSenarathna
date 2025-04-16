@@ -22,7 +22,7 @@
 
 **<h2 align="left">🔗 Connect with me:</h2>**
 <p align="left">
-<a href="www.linkedin.com/in/dewmika-senarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donlinkedin" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dewmika-senarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donlinkedin"/></a>
 <a href="https://medium.com/@dewmikasenarathna2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="donmediumblog" height="30" width="40" /></a>
 </p>
 

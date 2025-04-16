@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **💻 Internship opportunities in Web, Embedded, or AI development**
 
-- 👨‍💻 All of my projects are available at [Dondew.lk](Dondew.lk)
+- 👨‍💻 All of my projects are available at [Dondew.lk]([Dondew.lk](https://dewmikasenarathna.github.io/Don_Dew-s_Personal_Website/))
 
 - 📝 I regularly write articles on [don_____Medium.lk](don_____Medium.lk)
 

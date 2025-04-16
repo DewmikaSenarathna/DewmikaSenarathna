@@ -9,20 +9,20 @@
 
 - 🤝 I’m looking for help with **💻 Internship opportunities in Web, Embedded, or AI development**
 
-- 👨‍💻 All of my projects are available at([(https://dewmikasenarathna.github.io/Don_Dew-s_Personal_Website/)](https://dewmikasenarathna.github.io/Don_Dew-s_Personal_Website/))
+- 👨‍💻 All of my projects are available at([DonDew's Portfolio](https://dewmikasenarathna.github.io/Don_Dew-s_Personal_Website/))
 
-- 📝 I regularly write articles on [don_____Medium.lk](don_____Medium.lk)
+- 📝 I regularly write articles on ([DonDew's Medium](https://medium.com/@dewmikasenarathna2022))
 
-- 📫 How to reach me **dondew@gmail.com**
+- 📫 How to reach me **https://github.com/DewmikaSenarathna**
 
-- 📄 Know about my experiences [dondewgithub.lk](dondewgithub.lk)
+- 📄 Know about my experiences ([DonDew's GitHub](https://github.com/DewmikaSenarathna))
 
 - ⚡ Fun fact **Don**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dondewlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dondewlink" height="30" width="40" /></a>
-<a href="https://medium.com/donmediumblog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="donmediumblog" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dewmika-senarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donlinkedin" height="30" width="40" /></a>
+<a href="https://medium.com/@dewmikasenarathna2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="donmediumblog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

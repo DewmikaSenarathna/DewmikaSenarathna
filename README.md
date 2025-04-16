@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo_new.png" alt="Don Dew Logo">
+</div
+
 ## <h1 align="center">Hi 👋, I'm Dewmika Senarathna</h1>
 <h3 align="center">Emerging Computer Engineer | Web Developer | Arduino & Embedded Systems Programmer | Passionate About Generative AI & Deep Learning</h3>
 

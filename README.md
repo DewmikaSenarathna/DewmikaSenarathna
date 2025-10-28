@@ -13,9 +13,7 @@
 
 - 🤝 I’m looking for help with **💻 Internship opportunities in Web, Embedded, or AI development**
 
-- 👨‍💻 All of my projects are available at([DonDew's Portfolio](https://dewmikasenarathna.github.io/Don_Dew-s_Personal_Website/))
-
-- 📝 I regularly write articles on ([DonDew's Medium](https://medium.com/@dewmikasenarathna2022))
+- 📝 I regularly write articles on ([DonDew's Medium](https://medium.com/@dondew))
 
 - 📫 How to reach me **https://github.com/DewmikaSenarathna**
 
@@ -28,7 +26,7 @@
 **<h2 align="left">🔗 Connect with me:</h2>**
 <p align="left">
 <a href="https://www.linkedin.com/in/dewmika-senarathna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donlinkedin" height="40" width="50"/></a>
-<a href="https://medium.com/@dewmikasenarathna2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="donmediumblog" height="40" width="50" /></a>
+<a href="https://medium.com/@dondew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="donmediumblog" height="40" width="50" /></a>
 </p>
 <br>
 

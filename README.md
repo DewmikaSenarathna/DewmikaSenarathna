@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on ([DonDew's Medium](https://medium.com/@dondew))
 
-- 📫 How to reach me ([DonDew's LinkedIn](www.linkedin.com/in/dewmika-senarathna))
+- 📫 How to reach me ([DonDew's LinkedIn](https://www.linkedin.com/in/dewmika-senarathna/))
 
 - 📄 Know about my experiences ([DonDew's GitHub](https://github.com/DewmikaSenarathna))
 

@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences ([DonDew's GitHub](https://github.com/DewmikaSenarathna))
 
-- 🌐 Check my portfolio [DonDew Portfolio](https://dewmikasenarathna.github.io/Don_Dew_Portfolio/)
+- 🌐 Check my portfolio [DonDew's Portfolio](https://dewmikasenarathna.github.io/Don_Dew_Portfolio/)
 
 - ⚡ Fun fact **Don**
 <br>

@@ -40,25 +40,17 @@
 <br>
 
 
-<h2 align="left">📊 GitHub Activity:</h2>
+### 📊 GitHub Activity
 
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dewmikasenarathna&show_icons=true&locale=en&layout=compact" 
-    alt="dewmikasenarathna" 
-  />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DonDew&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonDew&theme=tokyonight" height="150"/>
 </p>
 
-<p>
-  <img 
-    align="right" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dewmikasenarathna&show_icons=true&locale=en" 
-    alt="dewmikasenarathna" 
-  />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonDew&theme=tokyonight" />
 </p>
 
-<br><br>
 
 
 

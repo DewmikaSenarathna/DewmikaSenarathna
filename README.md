@@ -43,6 +43,6 @@
 **<h2 align="left">📊 GitHub Activity:** </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewmikasenarathna&show_icons=true&locale=en&layout=compact" alt="dewmikasenarathna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dewmikasenarathna&show_icons=true&locale=en" alt="dewmikasenarathna" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dewmikasenarathna&show_icons=true&locale=en" alt="dewmikasenarathna" /></p>
 <br><br>
 
